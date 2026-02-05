@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ title or "Your Name" }}</title>
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="alternate" type="application/atom+xml" title="All Posts" href="/feed.xml">
+  <link rel="alternate" type="application/atom+xml" title="Leadership Posts" href="/feeds/leadership.xml">
+  <link rel="alternate" type="application/atom+xml" title="Privacy Posts" href="/feeds/privacy.xml">
+  <link rel="alternate" type="application/atom+xml" title="Radio Posts" href="/feeds/radio.xml">
+  <link rel="alternate" type="application/atom+xml" title="Labor Posts" href="/feeds/labor.xml">
+</head>
+<body>
+  {% include "nav.njk" %}
+  <main>
+    {{ content | safe }}
+  </main>
+  {% include "footer.njk" %}
+</body>
+</html>

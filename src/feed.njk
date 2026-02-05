@@ -1,0 +1,34 @@
+---
+permalink: /feed.xml
+eleventyExcludeFromCollections: true
+metadata:
+  title: "Your Name - Digital Garden"
+  subtitle: "Engineering, leadership, privacy, and other interests"
+  url: "https://yoursite.com"
+  feedUrl: "https://yoursite.com/feed.xml"
+  author:
+    name: "Your Name"
+    email: "you@example.com"
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>{{ metadata.title }}</title>
+  <subtitle>{{ metadata.subtitle }}</subtitle>
+  <link href="{{ metadata.feedUrl }}" rel="self"/>
+  <link href="{{ metadata.url }}"/>
+  <updated>{{ collections.blog[0].data.date | rfc3339Date }}</updated>
+  <id>{{ metadata.url }}/</id>
+  <author>
+    <name>{{ metadata.author.name }}</name>
+    <email>{{ metadata.author.email }}</email>
+  </author>
+  {%- for post in collections.blog %}
+  <entry>
+    <title>{{ post.data.title }}</title>
+    <link href="{{ metadata.url }}{{ post.url }}"/>
+    <updated>{{ post.data.date | rfc3339Date }}</updated>
+    <id>{{ metadata.url }}{{ post.url }}</id>
+    <content type="html"><![CDATA[{{ post.templateContent | htmlToAbsoluteUrls(metadata.url) }}]]></content>
+  </entry>
+  {%- endfor %}
+</feed>
