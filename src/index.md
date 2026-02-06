@@ -8,7 +8,7 @@ title: James Garside
 ## Welcome
 
 This is my digital garage. It's a workshop and a storehouse.  It's a place for tinkering.<br>  Sometimes I come here and quietly look around at my tools and projects.<br> 
-It's  like a <a href="https://henry.codes/" target="_blank">digital garden</a> but not as beautiful.  <br>More of a utilitarian "function follows form" vibe. 
+It's  like a <a href="https://henry.codes/" target="_blank">digital garden</a> but not as beautiful.  <br>More of a utilitarian "form follows function" vibe. 
 
 Built with [11ty](https://www.11ty.dev/), markdown, and vanilla CSS.
 
@@ -24,4 +24,4 @@ Read in your favorite reader or subscribe via [newsletter](/newsletter).
 
 ---
 
-[Current Events →](/now) • [Read the Blog →](/blog) • [Professional Resume →](/resume)
+[Current Events](/now) | [Read the Blog](/blog) | [Work History](/resume)

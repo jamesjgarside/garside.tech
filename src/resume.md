@@ -17,7 +17,7 @@ title: Resume - James Garside
   <img src="/assets/logos/customer-contact-services.png" alt="Customer Contact Services" class="company-logo">
   <div class="role-header-text">
     <strong>Interim Director of Information Technology</strong><br>
-    <span class="company-name">Customer Contact Services</span> | Minneapolis, MN | Aug 2025 – Jan 2026
+    <span class="company-name">Customer Contact Services</span> | Minnetonka, MN | Aug 2025 – Jan 2026
   </div>
 </div>
 </summary>
@@ -47,7 +47,7 @@ Leading a contact center through organizational transition, I broke down silos, 
 </div>
 </summary>
 <div class="role-content">
-After finding success with scaling and developing the Support Center practice, I carved out a role at Ryan overseeing Technology Service Management.  I built a talent pipeline for the department, launched organizational Change Management, and established a reporting practice for technology operations work using OAuth data streams, REST API, and Power BI dashboards.
+After finding success with scaling and developing the Support Center practice, I carved out a role at Ryan overseeing Technology Service Management.  I built a talent pipeline for the department, launched organizational Change Management, and established a reporting practice for technology operations using OAuth data streams, REST API, and Power BI dashboards. <br><br>
 
 - Managed and developed individual contributors and team leads, creating internal talent pipeline converting support staff into engineers and leaders
 - Spearheaded enterprise digital transformation implementing Change Management, Incident Response, CMDB, and Asset Management—delivered ahead of schedule and under budget
@@ -85,7 +85,7 @@ After finding success with scaling and developing the Support Center practice, I
   <img src="/assets/logos/istonish.png" alt="Istonish" class="company-logo">
   <div class="role-header-text">
     <strong>Contact Center Operations Manager</strong><br>
-    <span class="company-name">Istonish</span> | Denver, CO (Remote) | Aug 2020 – Jul 2021
+    <span class="company-name">Istonish</span> | Denver, CO | Aug 2020 – Jul 2021
   </div>
 </div>
 </summary>
@@ -105,7 +105,7 @@ After finding success with scaling and developing the Support Center practice, I
   <img src="/assets/logos/istonish.png" alt="Istonish" class="company-logo">
   <div class="role-header-text">
     <strong>IT Service Desk Manager</strong><br>
-    <span class="company-name">Istonish</span> | Denver, CO (Remote) | Sep 2019 – Aug 2020
+    <span class="company-name">Istonish</span> | Denver, CO | Sep 2019 – Aug 2020
   </div>
 </div>
 </summary>
@@ -122,12 +122,12 @@ After finding success with scaling and developing the Support Center practice, I
 ## Earlier Experience
 
 <div class="logo-grid">
-  <img src="/assets/logos/nelnet.png" alt="Nelnet" class="grid-logo">
-  <img src="/assets/logos/chrome-industries.png" alt="Chrome Industries" class="grid-logo">
-  <img src="/assets/logos/target.png" alt="Target" class="grid-logo">
-  <img src="/assets/logos/redbull.png" alt="Red Bull" class="grid-logo">
-  <img src="/assets/logos/usaf.png" alt="United States Air Force" class="grid-logo">
-  <img src="/assets/logos/acc.png" alt="American Civil Constructors" class="grid-logo">
+  <img src="/assets/logos/nelnet.png" alt="Nelnet Logo" class="grid-logo">
+  <img src="/assets/logos/chrome.jpg" alt="Chrome Industries Logo" class="grid-logo">
+  <img src="/assets/logos/target.jpg" alt="Target Logo" class="grid-logo">
+  <img src="/assets/logos/redbull.jpg" alt="Red Bull Logo" class="grid-logo">
+  <img src="/assets/logos/usaf.png" alt="United States Air Force Logo" class="grid-logo">
+  <img src="/assets/logos/acc.jpg" alt="American Civil Constructors Logo" class="grid-logo">
 </div>
 
 <details class="competencies-detail">

@@ -2,8 +2,8 @@
 layout: base.njk
 title: Blog
 ---
-# Digital Garden
-Thoughts on engineering, leadership, privacy, and other interests.
+# Writing
+
 
 <a href="/feeds/blog.xml" class="rss-link" title="Subscribe to all posts via RSS">RSS Feed</a>
 
